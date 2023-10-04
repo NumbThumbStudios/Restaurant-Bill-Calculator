@@ -1,0 +1,16 @@
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\bin\Debug\Restaurant Bill Calculator.exe.config
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\bin\Debug\Restaurant Bill Calculator.exe
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\bin\Debug\Restaurant Bill Calculator.pdb
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator.csproj.AssemblyReference.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator.csproj.SuggestedBindingRedirects.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\MainWindow.g.cs
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\App.g.cs
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator_MarkupCompile.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator_MarkupCompile.lref
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\MainWindow.baml
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator.g.resources
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant_Bill_Calculator.Properties.Resources.resources
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator.csproj.GenerateResource.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator.csproj.CoreCompileInputs.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator.exe
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Debug\Restaurant Bill Calculator.pdb

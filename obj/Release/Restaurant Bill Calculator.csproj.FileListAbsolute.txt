@@ -1,0 +1,16 @@
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\bin\Release\Restaurant Bill Calculator.exe.config
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\bin\Release\Restaurant Bill Calculator.exe
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\bin\Release\Restaurant Bill Calculator.pdb
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator.csproj.AssemblyReference.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator.csproj.SuggestedBindingRedirects.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\MainWindow.g.cs
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\App.g.cs
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator_MarkupCompile.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator_MarkupCompile.lref
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\MainWindow.baml
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator.g.resources
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant_Bill_Calculator.Properties.Resources.resources
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator.csproj.GenerateResource.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator.csproj.CoreCompileInputs.cache
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator.exe
+H:\Structured Project 3\Module 4\A4-2 Restaurant Bill Calculator\Restaurant Bill Calculator\obj\Release\Restaurant Bill Calculator.pdb
